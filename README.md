@@ -8,7 +8,7 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-green.svg)](https://fastapi.tiangolo.com/)
-[![Status: MVP Development](https://img.shields.io/badge/Status-MVP%20Development-orange.svg)](https://github.com/TrivianTechnologies/syzygy-rosetta-originbase/blob/main)
+[![Status: Historical](https://img.shields.io/badge/Status-Historical-lightgrey.svg)](https://github.com/TrivianTechnologies/syzygy-rosetta-originbase/blob/main)
 
 ---
 
