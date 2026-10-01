@@ -1,11 +1,14 @@
 # Syzygy Rosetta — Origin Codebase
 
+> [!IMPORTANT]
+> **Historical repository.** This repository preserves an origin-stage Syzygy Rosetta codebase and its development provenance. Active Rosetta/TRIA development now lives under the Trivian Technologies organization. This repository is retained as historical evidence and should not be treated as the canonical current implementation. See [FORK_DETACH_PROVENANCE.md](FORK_DETACH_PROVENANCE.md).
+
 > **API-first AI governance middleware. Real-time. Provider agnostic. Full audit trail.**
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-green.svg)](https://fastapi.tiangolo.com/)
-[![Status: MVP Development](https://img.shields.io/badge/Status-MVP%20Development-orange.svg)](https://github.com/Trivian-Technologies/syzygy-rosetta-originbase/blob/main)
+[![Status: MVP Development](https://img.shields.io/badge/Status-MVP%20Development-orange.svg)](https://github.com/TrivianTechnologies/syzygy-rosetta-originbase/blob/main)
 
 ---
 
@@ -122,7 +125,7 @@ Production environment multiplier: `×1.10`. Multiple violations multiplier: `×
 ### Run with Docker
 
 ```bash
-git clone https://github.com/Trivian-Technologies/syzygy-rosetta-originbase.git
+git clone https://github.com/TrivianTechnologies/syzygy-rosetta-originbase.git
 cd syzygy-rosetta-originbase
 docker build -t rosetta .
 docker run -p 8000:8000 rosetta
