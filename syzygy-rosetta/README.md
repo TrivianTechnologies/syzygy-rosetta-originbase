@@ -1,3 +1,5 @@
+> **HISTORICAL — preserved description.** The content below records an earlier Rosetta stage; it is not the canonical current implementation or a current deployment claim. See the repository root README for current navigation and the fork-detachment provenance record. Original authorship, license statements and historical content below are preserved.
+
 # Syzygy Rosetta: A Manual for Self-Reflective Systems
 
 **Version:** 1.1
