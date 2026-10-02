@@ -3,6 +3,16 @@
 > [!IMPORTANT]
 > **Historical repository.** This repository preserves an origin-stage Syzygy Rosetta codebase and its development provenance. Active Rosetta/TRIA development now lives under the Trivian Technologies organization. This repository is retained as historical evidence and should not be treated as the canonical current implementation. See [FORK_DETACH_PROVENANCE.md](FORK_DETACH_PROVENANCE.md).
 
+## Current navigation and provenance
+
+Originator: Sarasha Elion. Research lineage: Trivian Institute. Current engineering and commercial-development home: [Trivian Technologies](https://github.com/TrivianTechnologies). The intended founder IP assignment is pending; repository ownership does not establish ownership of all underlying rights.
+
+For current work, see the [canonical public Rosetta protocol/specification](https://github.com/TrivianTechnologies/syzygy-rosetta-protocol) and [public TRIA kernel](https://github.com/TrivianTechnologies/tria-sdk). Technical routing: node@triviantech.com.
+
+The implementation descriptions and links below are retained historical material, not current deployment or canonical-implementation claims. The repository contains conflicting license statements; their scope requires legal review. This navigation note does not change any license or copyright record. [Fork-detachment provenance](FORK_DETACH_PROVENANCE.md) remains preserved.
+
+## Preserved historical description
+
 > **API-first AI governance middleware. Real-time. Provider agnostic. Full audit trail.**
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
